@@ -8,5 +8,5 @@ fn main() {
     name = "Student";
     println!("Hello, world! {} ", name);
     let result =  add(1, 2);
-    println!("Hello, world! {} ", result);
+    println!("final result is  {} ", result);
 }
